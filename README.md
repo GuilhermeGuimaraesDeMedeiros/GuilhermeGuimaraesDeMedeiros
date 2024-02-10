@@ -1,5 +1,10 @@
-### Hi there 👋
+About me...
 
+I am someone who has a passion for studying, sports, games, and spending time with my family. Throughout my journey, I obtained a degree as a Physical Therapist, though I only briefly worked in that field. I've also gained experience in various other areas, including commerce, entrepreneurship, and education. I've worked as a physics teacher in high schools and preparatory courses for university entrance exams. Since 2008, I have been employed as a Civil Servant, serving as a Social Security Analyst.
+
+My interest in technology has always been strong, and recently, I made the decision to pursue a new career path. During this exploration, I discovered my passion for programming, which surprisingly hadn't captured my attention when I was younger.
+
+At present, I am fully committed to intensive study sessions, aiming to make up for lost time (despite being a little past my 20s... haha). My goal is to position myself effectively in this new and exciting market.
 <!--
 **GuilhermeGuimaraesDeMedeiros/GuilhermeGuimaraesDeMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
